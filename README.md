@@ -24,7 +24,7 @@ if err != nil {
     panic(err)
 }
 
-binTime, err := base10.Uint64ToTime(bin, now.Location())
+humanTime, err := base10.Uint64ToTime(bin, now.Location())
 if err != nil {
     panic(err)
 }
