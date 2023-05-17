@@ -10,9 +10,9 @@ There are two different versions: Base10 which is for humans and more binary pac
 
 
 
-|          | Base10       | Base2       |
-|----------|--------------|-------------|
-| Accuracy | microseconds | nanoseconds |
+|          | Base10                   | Base2                        |
+|----------|--------------------------|------------------------------|
+| Accuracy | microseconds (tens (10)) | nanoseconds (hundreds (100)) |
 
 
 
