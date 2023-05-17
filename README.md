@@ -1,5 +1,10 @@
 # uint64timestamp
 
+![GitHub All Releases](https://img.shields.io/github/downloads/raspi/uint64timestamp/total?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/raspi/uint64timestamp?style=for-the-badge)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/raspi/uint64timestamp?style=for-the-badge)
+[![Go Report Card](https://goreportcard.com/badge/github.com/raspi/uint64timestamp)](https://goreportcard.com/report/github.com/raspi/uint64timestamp)
+
 Timestamp fitted into uint64. 
 There are two different versions: Base10 which is for humans and more binary packed Base2. 
 
